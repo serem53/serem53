@@ -2,7 +2,7 @@
 
 # Welcome to My Data Science and Software Development Portfolio!
 
-(tech.jpeg)
+![Profile Banner](tech.jpeg)
 
 Hello there! I'm thrilled to welcome you to my portfolio, where my passion for both data science and software development comes to life. Let me take you on a journey through the skills and technologies I've been honing:
 
