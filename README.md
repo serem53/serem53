@@ -2,7 +2,7 @@
 
 # Welcome to My Data Science and Software Development Portfolio!
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hatch.com%2FExpertise%2FServices-and-Technologies%2FTechnology-Development&psig=AOvVaw3mDwJeavMs1Z1brAe_0FKN&ust=1692743880312000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNicr9zp7oADFQAAAAAdAAAAABAF)
+(tech.jpeg)
 
 Hello there! I'm thrilled to welcome you to my portfolio, where my passion for both data science and software development comes to life. Let me take you on a journey through the skills and technologies I've been honing:
 
