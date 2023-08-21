@@ -2,12 +2,6 @@
 
 # Welcome to My Data Science and Software Development Portfolio!
 
-<div style="display: flex; justify-content: center;">
-  <img src="tech.jpg" alt="Profile Banner" style="max-width: 100%; height: auto;">
-</div>
-
-
-
 Hello there! I'm thrilled to welcome you to my portfolio, where my passion for both data science and software development comes to life. Let me take you on a journey through the skills and technologies I've been honing:
 
 ## Skills and Technologies
