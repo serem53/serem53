@@ -2,7 +2,11 @@
 
 # Welcome to My Data Science and Software Development Portfolio!
 
-![Profile Banner](tech.jpeg)
+<div style="display: flex; justify-content: center;">
+  <img src="images/tech.jpg" alt="Profile Banner" style="max-width: 100%; height: auto;">
+</div>
+
+
 
 Hello there! I'm thrilled to welcome you to my portfolio, where my passion for both data science and software development comes to life. Let me take you on a journey through the skills and technologies I've been honing:
 
@@ -61,4 +65,8 @@ I'm a relentless learner with an insatiable curiosity for data science and softw
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/trevor-serem) if you're eager to discuss data science, software development, or any exciting opportunities for collaboration. Let's embark on this learning journey together!
 
-![Data Science Journey](images/data_science_journey.jpg)
+<div style="text-align:center">
+  <img src="data.jpeg" alt="Data Science Journey">
+</div>
+
+
