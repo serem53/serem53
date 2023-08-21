@@ -2,7 +2,7 @@
 
 # Welcome to My Data Science and Software Development Portfolio!
 
-![Profile Banner](images/profile_banner.jpg)
+![Profile Banner](https://github.com/serem53/serem53/blob/main/tech.jpeg)
 
 Hello there! I'm thrilled to welcome you to my portfolio, where my passion for both data science and software development comes to life. Let me take you on a journey through the skills and technologies I've been honing:
 
